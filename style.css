@@ -50,8 +50,8 @@ header {
   background-color: #ab47bc;
   color: white;
   font-size: 1.2em;
-  border-bottom-left-radius: 35px; /* Rounded bottom-left corner */
-  border-bottom-right-radius: 35px; /* Rounded bottom-right corner */
+  border-bottom-left-radius: 30px; /* Rounded bottom-left corner */
+  border-bottom-right-radius: 30px; /* Rounded bottom-right corner */
 }
 
 /* Image container styling */
